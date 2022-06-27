@@ -1,5 +1,8 @@
 site_name: TouDoum-Framework
 site_url: https://toudoum-framework.github.io
+site_author: Gabin Lanore
+site_description: >-
+  A project for massively distribute tasks by writing a simple module and running it with cli
 
 repo_name: TouDoum-Framework
 repo_url: https://github.com/TouDoum-Framework/TouDoum-Framework
@@ -8,6 +11,10 @@ edit_uri: https://github.com/TouDoum-Framework/toudoum-framework.github.io
 nav:
   - Home: index.md
   - About: about.md
+
+plugins:
+  - minify:
+      minify_html: true
 
 extra:
   generator: true
