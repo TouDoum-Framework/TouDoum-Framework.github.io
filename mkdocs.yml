@@ -1,6 +1,9 @@
 site_name: TouDoum-Framework
+site_url: https://toudoum-framework.github.io
 
+repo_name: TouDoum-Framework
 repo_url: https://github.com/TouDoum-Framework/TouDoum-Framework
+edit_uri: https://github.com/TouDoum-Framework/toudoum-framework.github.io
 
 nav:
   - Home: index.md
