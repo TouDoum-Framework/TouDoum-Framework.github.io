@@ -10,6 +10,21 @@ edit_uri: https://github.com/TouDoum-Framework/toudoum-framework.github.io
 
 nav:
   - Home: index.md
+  - Run:
+    - Introduction: run/index.md
+    - Requirement: run/requirement.md
+    - Install: run/install.md
+    - Upgrade: run/upgrade.md
+  - Extend:
+    - Introduction: extend/index.md
+    - Create module: extend/create_module.md
+    - Api: extend/api.md
+    - Tasks: extend/tasks.md
+    - Cli: extend/cli.md
+  - Cli:
+    - Introduction: cli/index.md
+    - Install: cli/install.md
+  - WebUI: webui.md
   - About: about.md
 
 plugins:
